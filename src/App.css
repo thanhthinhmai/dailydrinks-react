@@ -26,6 +26,9 @@
 .ant-pagination {
     display: none;
 }
+.ant-btn-primary {
+    margin: 50px 0px 20px 10px;
+}
 @keyframes App-logo-spin {
     from {
         transform: rotate(0deg);
